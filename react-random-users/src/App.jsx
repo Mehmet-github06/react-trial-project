@@ -117,7 +117,7 @@ function App() {
       ) : (
         <>
           <div className="block bcg-orange">
-            <img src={cwSvg} alt="cw" id="cw" />
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRderwOER19WoERh-drCaBuX1lE4qxIVmBK4g&usqp=CAU" alt="cw" id="cw" />
           </div>
           <div className="block">
             <div className="container">
